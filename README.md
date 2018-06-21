@@ -4,7 +4,7 @@ This is the repo for handling import of travel bookings for TravelBlocks.
 
 ### Architecture
 
-![](./bookings-arch.png)
+![](./Bookings-arch.png)
 
 ### Stack
 We’ll use a simple NodeJS service with a MongoDB for our backend.

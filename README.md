@@ -14,14 +14,12 @@ We’ll use a simple NodeJS service with a MongoDB for our backend.
 
 ### Microservices
 
-- [Movies Service example](./movies-service)
-- [Cinema Catalog Service example](./cinema-catalog-service)
+- [Import Control Service](./control-service)
+- [3rd party Import Service](./3rd-party-service)
 - [Booking Service example](./booking-service)
-- [Payment Service example](./payment-service)
-- [Notification Service example](./notification-service)
-- [API Gateway Service example](./api-gateway)
+- [API Gateway Service](./api-gateway)
 
-### How to run the cinema microservice
+### How to run the booking import microservices
 
 We need to have docker installed previously.
 
